@@ -1,5 +1,7 @@
 # Decisio
 
+*A Final Project for the AI-Enabled Python Web Development Bootcamp at Devscale Indonesia.*
+
 Decisio is an advanced, AI-driven decision-intelligence platform designed to ingest multi-source data (PDFs, CSVs, documents), build intelligent knowledge vectors, run interactive analytical chats, and generate automated decision briefs and visualizations.
 
 👉 **[View the Pitch Deck: Transforming Data into Decisions](https://pitch.com/v/ai-ai-workspace-transforming-data-into-decisions-85759b)**
